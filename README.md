@@ -1,4 +1,4 @@
-# CompuMovil
-Repositorio creado para subir tareas y ejercicios de la materia de Cómputo Móvil.
+# TareaMoral_1
+Tarea de mostrar en pantalla nuestro número de cuenta en binario.
 
 Autor: Tapia Solis Samuel Alejandro
